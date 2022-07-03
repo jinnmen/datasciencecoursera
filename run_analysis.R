@@ -180,4 +180,4 @@ glimpse(tidydataw)
 View(tidydataw)
 
 #Save as file
-write.table(tidydataw, file="tidydata.txt")
+write.table(tidydataw, file="tidydata.txt",row.names = FALSE)
