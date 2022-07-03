@@ -8,6 +8,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 2. Download run_analysis.R in the same R working directory
 3. Install packages for dplyr and reshape2 if necessary to prevent library loading error.
 4. Run the file "run_analysis.R" 
+5. Extra notes: How to upload files to github https://www.youtube.com/watch?v=6pAXylqATB0
 
 ## Assignment instructions
 You should create one R script called run_analysis.R that does the following. 
